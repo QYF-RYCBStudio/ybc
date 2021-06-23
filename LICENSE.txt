@@ -1,7 +1,7 @@
 zh-CN
 MIT执照
 
-版权所有 (c) 2021 彬蔚工作室
+版权所有 (c) 2021 RYCB/彬蔚工作室
 
 特此向任何获得副本的人免费授予许可本软件和相关文档文件（“软件”），以处理在软件中不受限制，包括但不限于权利使用、复制、修改、合并、发布、分发、再许可和/或出售软件的副本，并允许软件的接收者提供这样做，但须符合以下条件：
 
@@ -13,7 +13,7 @@ MIT执照
 en-EN
 MIT License
 
-Copyright (c) 2021 Binwei Studio
+Copyright (c) 2021 RYCB/Binwei Studio
 
 Permission is hereby granted, free of charge, to any person obtaining a copyof this software and associated documentation files (the "Software"), to dealin the Software without restriction, including without limitation the rightsto use, copy, modify, merge, publish, distribute, sublicense, and/or sellcopies of the Software, and to permit persons to whom the Software isfurnished to do so, subject to the following conditions:
 
