@@ -11,6 +11,7 @@
 ### [ASP源代码][ASPSC]
 ### [版本发布][re]
 ### [README][RM]
+### [Bug][b]
 
 
 [xwszen]:https://github.com/QYF-RYCBStudio/ybc/blob/main/CODE_OF_CONDUCT.md
@@ -22,3 +23,4 @@
 [ASPSC]:https://github.com/QYF-RYCBStudio/ybc/tree/main/Service%201.0
 [re]:https://github.com/QYF-RYCBStudio/ybc/releases
 [RM]:https://github.com/QYF-RYCBStudio/ybc/blob/main/README.md
+[b]:https://github.com/QYF-RYCBStudio/ybc/issues/new
