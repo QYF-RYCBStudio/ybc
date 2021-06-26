@@ -1,4 +1,4 @@
-#This program is for download Prometheus(zh-CN:YuanBianCheng,猿编程) APP,COPYRIGHT (c) 2021 BW Studio,ALL RIGHTS RESERVED.
+#This program is for download Prometheus(zh-CN:YuanBianCheng,猿编程) APP,COPYRIGHT (c) 2021 RYCB/BW Studio,ALL RIGHTS RESERVED.
 
 
 import urllib.request as ur
