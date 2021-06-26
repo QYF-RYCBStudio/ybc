@@ -12,6 +12,7 @@
 ### [版本发布][re]
 ### [README][RM]
 ### [Bug][b]
+### [安全政策][se]
 
 
 [xwszen]:https://github.com/QYF-RYCBStudio/ybc/blob/main/CODE_OF_CONDUCT.md
@@ -24,3 +25,4 @@
 [re]:https://github.com/QYF-RYCBStudio/ybc/releases
 [RM]:https://github.com/QYF-RYCBStudio/ybc/blob/main/README.md
 [b]:https://github.com/QYF-RYCBStudio/ybc/issues/new
+[se]:https://github.com/QYF-RYCBStudio/ybc/blob/main/SECURITY.md
