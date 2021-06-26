@@ -13,7 +13,7 @@
 ### [README][RM]
 ### [Bug][b]
 ### [安全政策][se]
-
+### [rycb分支][rycb]
 
 [xwszen]:https://github.com/QYF-RYCBStudio/ybc/blob/main/CODE_OF_CONDUCT.md
 [xwszcn]:https://github.com/QYF-RYCBStudio/ybc/blob/main/CODE_OF_CONDUCT(CN).md
@@ -26,3 +26,4 @@
 [RM]:https://github.com/QYF-RYCBStudio/ybc/blob/main/README.md
 [b]:https://github.com/QYF-RYCBStudio/ybc/issues/new
 [se]:https://github.com/QYF-RYCBStudio/ybc/blob/main/SECURITY.md
+[rycb]:https://github.com/QYF-RYCBStudio/ybc/tree/rycb
