@@ -6,7 +6,7 @@
 ### [行为守则-中文][xwszcn]
 ### [帮助][SUPPORT]
 ### [许可证][MIT]
-### [ASP的版本][V of ASP]
+### [ASP的版本(不会再更新)][V of ASP]
 ### [猿编程APP下载(.py)][YBCAPPD]
 ### [ASP源代码][ASPSC]
 ### [版本发布][re]
