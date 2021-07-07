@@ -11,7 +11,7 @@
 ### [ASP源代码][ASPSC]
 ### [版本发布][re]
 ### [README][RM]
-### [Bug][b]
+### [提交Bug][b]
 ### [安全政策][se]
 ### [rycb分支][rycb]
 
