@@ -3,4 +3,4 @@
 * 本工作室的Python程序(除内部文件外)全部开源
 * 更多请点击-→[传送门][statement]
 
-[statement]:https://github.com/QYF-RYCBStudio/ybc/tree/rycb/.rycb/More
+[statement]:https://github.com/QYF-RYCBStudio/ybc/tree/rycb/.rycb/.More
