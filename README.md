@@ -1,5 +1,6 @@
 # ybc
 ## 猿编程专用
+# [**YBC** End-of-life Note]()
 
 # 快速导航
 ### [行为守则-英语][xwszen]                   
